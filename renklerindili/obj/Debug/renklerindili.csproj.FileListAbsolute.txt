@@ -1,0 +1,12 @@
+C:\Users\Nur\source\repos\renklerindili\bin\Debug\renklerindili.exe.config
+C:\Users\Nur\source\repos\renklerindili\bin\Debug\renklerindili.exe
+C:\Users\Nur\source\repos\renklerindili\bin\Debug\renklerindili.pdb
+C:\Users\Nur\source\repos\renklerindili\obj\Debug\renklerindili.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\renklerindili\obj\Debug\renklerindili.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nur\source\repos\renklerindili\obj\Debug\renklerindili.Form1.resources
+C:\Users\Nur\source\repos\renklerindili\obj\Debug\renklerindili.Form2.resources
+C:\Users\Nur\source\repos\renklerindili\obj\Debug\renklerindili.Properties.Resources.resources
+C:\Users\Nur\source\repos\renklerindili\obj\Debug\renklerindili.csproj.GenerateResource.cache
+C:\Users\Nur\source\repos\renklerindili\obj\Debug\renklerindili.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\renklerindili\obj\Debug\renklerindili.exe
+C:\Users\Nur\source\repos\renklerindili\obj\Debug\renklerindili.pdb
